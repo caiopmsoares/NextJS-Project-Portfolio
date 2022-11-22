@@ -25,6 +25,7 @@ export default function HomeHero() {
           </CodeItem>
 
           <CodeItem>
+            <span className="comment">//Minha atual ocupação</span>
             <span className="purple">Cargo</span> {'\u007b'}
             <div>
               Função: <span className="blue">Dev Front-end,</span>
