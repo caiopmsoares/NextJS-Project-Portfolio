@@ -23,6 +23,7 @@ export const Container = styled.header`
 export const NavLinkContainer = styled.li<NavLinkProps>`
   a {
     text-transform: uppercase;
+    font-weight: bold;
     color: ${props =>
       props.isActive ? props.theme.primary : props.theme.textHighlight};
     transition: 0.5s;
