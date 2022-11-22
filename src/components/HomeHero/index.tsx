@@ -16,10 +16,10 @@ export default function HomeHero() {
             <span className="comment">//Minha apresentação</span>
             <span className="purple">Infos</span> {'\u007b'}
             <div>
-              Nome: <span className="blue">Caio,</span>
+              Nome: <span className="blue">Caio Macedo,</span>
             </div>
             <div>
-              Sobrenome: <span className="blue">Macedo</span>
+              Idade: <span className="blue">24</span>
             </div>
             {'\u007d'}
           </CodeItem>
