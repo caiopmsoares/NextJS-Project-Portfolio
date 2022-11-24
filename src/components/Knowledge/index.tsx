@@ -19,7 +19,7 @@ export default function Knowledge() {
         />
         <KnowledgeItems title="Adobe Photoshop" icon={<SiAdobephotoshop />} />
         <KnowledgeItems
-          title="Adobe Premierepro"
+          title="Adobe Premiere Pro"
           icon={<SiAdobepremierepro />}
         />
         <KnowledgeItems

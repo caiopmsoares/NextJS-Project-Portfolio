@@ -1,4 +1,6 @@
 import Cards from '../components/Cards';
+import ContactForm from '../components/ContactForm';
+import Footer from '../components/Footer';
 import { Header } from '../components/Header';
 import HomeHero from '../components/HomeHero';
 import Knowledge from '../components/Knowledge';
@@ -14,7 +16,9 @@ export default function Home() {
         <Cards />
         <Projects />
         <Knowledge />
+        <ContactForm />
       </main>
+      <Footer />
     </HomeContainer>
   );
 }
