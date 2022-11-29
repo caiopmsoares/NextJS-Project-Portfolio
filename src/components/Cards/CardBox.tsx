@@ -8,7 +8,7 @@ interface CardBoxProps {
 
 export default function CardBox({ year, title, description }: CardBoxProps) {
   return (
-    <BoxContainer>
+    <BoxContainer data-aos="fade-up">
       <div>
         <h1>{year}</h1>
         <h2>{title}</h2>
